@@ -3,3 +3,4 @@ hello git !
 333-master
 line4-新招数仙人指路
 line5-指鹿为马（lhc）
+line6-必先自宫（东方）
